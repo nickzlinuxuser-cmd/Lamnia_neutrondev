@@ -1,5 +1,5 @@
 # Lamnia_neutrondev
-It is a personal projefct to a new OS
+It is a personal project to a new OS
 Lamnya OS
 
 Lamnya is an experimental operating system built from scratch with a focus on simplicity, integration, and system clarity.
